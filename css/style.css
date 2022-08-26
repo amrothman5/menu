@@ -1,0 +1,26 @@
+
+.title{
+    padding-top: 50px;
+    margin-right: 100px;
+    text-align: center;
+    font-family:cursive;
+}
+
+.swiper-container {
+    display: flex;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 120px;
+    overflow:hidden; 
+
+  }
+
+   .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    -webkit-box-reflect:  below 1px linear-gradient(transparent,transparent,#0006);
+  }

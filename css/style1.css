@@ -1,0 +1,36 @@
+
+.frest {
+    /* background: rgba(0, 0, 0, 0.938); */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    color: rgb(253, 253, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    padding-right: 100px;
+    overflow:hidden;
+  }
+
+ .swiper-container {
+    display: flex;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 300px;
+  }
+
+   .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    -webkit-box-reflect:  below 1px linear-gradient(transparent,transparent,#0006);
+  }
+/* =====================================================================================================
+===================================================================================================== */
+
+
+
+
